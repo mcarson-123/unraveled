@@ -1,0 +1,13 @@
+{
+  "name": "unraveled",
+  "version": "0.0.1",
+  "description": "Alternative interface for Ravelry",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.0.0",
+    "body-parser": "~1.0.0",
+    "lodash": "^2.4.1",
+    "q": "^1.0.1",
+    "request": "^2.34.0"
+  }
+}
